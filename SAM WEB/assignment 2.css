@@ -1,0 +1,92 @@
+body {text-justify: auto;
+    text-align: center;
+    background-image: url(0.jpg);
+    background-size: 2000px;
+    padding: 100px;
+    padding-top: 10px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rgba(211, 180, 80, 0.527);
+    color: rgb(0, 12, 173);
+    
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: navajowhite;
+    background-color: rgb(204, 78, 78);
+}
+ul{float: right;
+    list-style-type:none
+}
+ul li{display: inline-block;
+}ul li a{
+    text-decoration: none;
+    color:#fff;
+    padding: 5px 20px;
+    border:1px solid transparent;
+    transition: 0.6s ease;
+}
+ul li a:hover{
+    background-color: #fff;
+    color: #000
+}
+
+.svgClass {
+    background-color:navajowhite;
+    float:left;
+    width:70%;
+    color:#fff;
+    padding:10px;
+    box-sizing:border-box;
+}
+polygon{
+    fill:white; transition: 1s fill;
+}
+polygon:hover {
+    fill: burlywood;
+     
+}
+.lideta { stroke:yellow;stroke-width: 1px;stroke-dasharray: 3; fill:rgba(58, 255, 255, 0.247); fill-opacity: 50%;}
+.kirkos{stroke:greenyellow;stroke-width: 1px;stroke-dasharray: 3; fill:rgba(58, 255, 255, 0.247); fill-opacity: 10%;}
+.nifassilk{stroke:goldenrod;stroke-width: 1px;stroke-dasharray: 3; fill: rgba(58, 255, 255, 0.247); fill-opacity: 50%;}
+.akakikaliti {stroke:olive;stroke-width: 1px;stroke-dasharray: 3; fill:rgba(58, 255, 255, 0.247); fill-opacity: 10%;}
+.yeka{stroke:lawngreen;stroke-width: 1px;stroke-dasharray: 3;fill:rgba(58, 255, 255, 0.247); fill-opacity: 10%;}
+.bole{stroke:green;stroke-width: 1px;stroke-dasharray: 3; fill:rgba(58, 255, 255, 0.247); fill-opacity: 10%;}
+.kolfekeraniyo{stroke: khaki;stroke-width: 1px;stroke-dasharray: 3; fill: rgba(58, 255, 255, 0.247); fill-opacity: 50%;}
+.addisketema{stroke:rgb(238, 228, 119);stroke-width: 1px;stroke-dasharray: 3; fill:rgba(58, 255, 255, 0.247)w;fill-opacity: 50%;}
+.arada{stroke:peru;stroke-width: 1px;stroke-dasharray: 3; fill:rgba(58, 255, 255, 0.247); fill-opacity: 50%;}
+.gulele{stroke:orange;stroke-width: 1px; stroke-dasharray: 3; fill:rgba(58, 255, 255, 0.247); fill-opacity: 50%;}
+
+.removed{
+display: none;
+}
+button{
+
+    position: relative;
+    color: rgb(202, 84, 84);
+    font-size: 20px;
+    background:navajowhite;
+    border:none;
+    outline: none;
+    left: 0%;
+    width: 260px;
+    text-align: left;
+}
+button.hover{
+    fill: whitesmoke;
+}
+#sidebar{
+    text-align: left;
+    float:right;
+    width:30%;
+    background:none;
+    color:rgb(228, 80, 80);
+    padding:0px;
+    box-sizing:border-box;
+}
+
+.removed{ 
+    display: none; 
+} 

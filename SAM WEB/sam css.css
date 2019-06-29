@@ -1,0 +1,21 @@
+/* <style type ="text/css"> */
+body{font-family: cambria;
+color:rgb(107, 33, 20);
+padding: 100px;
+font-size: 60px;
+background-image: url(board9.jpg);
+background-size: 4000px;
+}
+
+
+H1{
+    color: rgb(150, 37, 9);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(224, 181, 64);
+    text-align: center;}
+
+   aside{
+    text-align: center;
+}
+ul{ text-align: center;
+list-style: none;}

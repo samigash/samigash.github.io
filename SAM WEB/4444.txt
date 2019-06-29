@@ -1,0 +1,8 @@
+ style="sroke:cornflowerblue; fill: black;
+  font-size: 20px; text-anchor: middle;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  writting-mode:tb; " >SVG </text>
+  <rect x="0" y="65" height="10" width="250"
+  style="stroke:none; stroke-dasharray:3 1; fill:none;
+  stroke-width:0.5; fill:white; " />
+  </svg>

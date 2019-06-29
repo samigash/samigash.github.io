@@ -1,0 +1,8 @@
+style="stock:brown; strock-dasharry:3 1; fill:cornflowerblue
+ strock-width:0.5;"/>
+ <text x="30" y="50"
+ style="strock:none;fill:black"
+ font-size: 10px; text-anchor: start; strock-width=0.05;
+ font-family: Impact, Haettenschweiler, 'Arial narrow bold' , sans-serif
+ > SVG.circle.rectangle.line.polyline.path.text</text>text>
+ <text x="15" y="50" 
